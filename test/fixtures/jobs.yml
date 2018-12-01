@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company: MyString
+  start_date: 2018-12-01
+  end_date: 2018-12-01
+  contractor_ID: 1
+
+two:
+  company: MyString
+  start_date: 2018-12-01
+  end_date: 2018-12-01
+  contractor_ID: 1
